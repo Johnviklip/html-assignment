@@ -1,2 +1,2 @@
 # html-assignment
-I have developed a small web page with my html basic knowledge
+I have developed a basic web page with my html skills
